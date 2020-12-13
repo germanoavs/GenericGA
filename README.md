@@ -1,2 +1,2 @@
 # GenericGA
-Generic Genetic Alrithm implementation on MATLAB 
+Generic Genetic Algorithm implementation on MATLAB 
